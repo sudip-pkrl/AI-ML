@@ -1,2 +1,3 @@
-# AI-ML
-Artificial Intelligence/Machine Learning
+# Artificial Intelligence/Machine Learning(AI/ML)
+
+# Author:- Sudip Pokhrel
